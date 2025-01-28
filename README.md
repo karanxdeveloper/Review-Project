@@ -1,3 +1,6 @@
-Screenshot 2025-01-29 001652.png
+# REVIEW CARD PROJECT
 
-Screenshot 2025-01-29 001858.png
+## Screenshots
+
+![Screenshot 1](Screenshot%202025-01-29%20001652.png)
+![Screenshot 2](Screenshot%202025-01-29%20001858.png)
